@@ -15,6 +15,6 @@
 ---
 
 ## Group information:
-**Instructor:Fai Alotaibi** 👩‍🏫
+**Instructor: Fai Alotaibi** 👩‍🏫
 
  **Group Name: The Rea sea Project** 🌊
